@@ -11,7 +11,7 @@
 | Contributor                             | Role |
 | ----------------------------------------| --------- | 
 | [박은우](https://github.com/ieunune)     | Backend   | 
-| [김도희](https://github.com/kimth007kim) | Backend   |
+| [김도희](https://github.com/Slowth-KIM)  | Backend   |
 | [최강헌](https://github.com/choikangheon)| Backend   |
 
 

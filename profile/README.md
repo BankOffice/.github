@@ -43,7 +43,7 @@
 ├─package.json
 └─jsconfig.json
 
-🌏 Server 🌍
+🌏Server 🌍
 ├── main
 │ ├─BankOffice
 │ │ ├─aop
@@ -57,6 +57,8 @@
 │ │ ├─response
 │ │ ├─service
 │ │ └─util
+
+🌏Batch 🌍
 ```
 
 <!--

@@ -26,6 +26,7 @@
 ### DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+<!--
 ## 프로젝트 구조
 ```
 🌏Client 🌍
@@ -60,6 +61,7 @@
 
 🌏Batch 🌍
 ```
+-->
 
 <!--
 
